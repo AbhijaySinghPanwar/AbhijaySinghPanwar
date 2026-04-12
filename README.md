@@ -1,7 +1,13 @@
-# 👋 Hi, I'm Abhijay Panwar  
+<h1 align="center">Hi 👋, I'm Abhijay Panwar</h1>
 
-💻 IT Student | Backend & Systems Enthusiast  
-🚀 Building real-world applications using Web, IoT & Networking  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=IT+Student;Backend+Developer;IoT+Enthusiast;System+Design+Learner&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  💻 IT Student | Backend & Systems Enthusiast <br>
+  🚀 Building real-world applications using Web, IoT & Networking
+</p>
 
 ---
 
@@ -23,8 +29,26 @@
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijay-singh-panwar-14703828b/)  
-📧 Email: abhijaysinghpanwar822@gmail.com  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijay%20Panwar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijay-singh-panwar-14703828b/)
+
+📧 Email: abhijaysinghpanwar822@gmail.com
+
+---
+
+## 🌍 Profiles:
+
+<p align="left">
+  <a href="https://github.com/AbhijaySinghPanwar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhijay-singh-panwar-14703828b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
@@ -37,9 +61,18 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhijaySinghPanwar&theme=dark&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhijaySinghPanwar&theme=dark)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijaySinghPanwar&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhijaySinghPanwar&theme=tokyonight&show_icons=true"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijaySinghPanwar&theme=tokyonight"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijaySinghPanwar&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Quote:
+> "First, solve the problem. Then, write the code." – John Johnson
 
 ---
 
