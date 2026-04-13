@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijay Panwar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=IT+Student;Backend+Developer;IoT+Enthusiast;System+Design+Learner&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com?lines=IT+Student;Backend+Developer;IoT+Enthusiast;System+Design+Learner&center=true&width=500&height=50">
 </p>
 
 <p align="center">
@@ -62,9 +62,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijaySinghPanwar&theme=tokyonight&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhijaySinghPanwar&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijaySinghPanwar&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=AbhijaySinghPanwar&theme=tokyonight"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijaySinghPanwar&layout=compact&theme=tokyonight"/>
 </p>
