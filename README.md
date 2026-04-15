@@ -35,17 +35,15 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/AbhijaySinghPanwar/Aqua-Alert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijaySinghPanwar&repo=Aqua-Alert&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/AbhijaySinghPanwar/aqua-alert">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijaySinghPanwar&repo=aqua-alert&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/AbhijaySinghPanwar/Network-Security-Scanner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijaySinghPanwar&repo=Network-Security-Scanner&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/AbhijaySinghPanwar/SecureScope-TLS-Security-Platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijaySinghPanwar&repo=SecureScope-TLS-Security-Platform&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/AbhijaySinghPanwar/E-learning-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijaySinghPanwar&repo=E-learning-Platform&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/AbhijaySinghPanwar/skillswap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijaySinghPanwar&repo=skillswap&theme=tokyonight&hide_border=true" />
 </a>
-
-> ⚠️ **Note:** Replace the `repo=` values above with your exact repository names from GitHub.
 
 ---
 
