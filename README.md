@@ -35,15 +35,10 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/AbhijaySinghPanwar/aqua-alert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijaySinghPanwar&repo=aqua-alert&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/AbhijaySinghPanwar/SecureScope-TLS-Security-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijaySinghPanwar&repo=SecureScope-TLS-Security-Platform&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/AbhijaySinghPanwar/skillswap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijaySinghPanwar&repo=skillswap&theme=tokyonight&hide_border=true" />
-</a>
+| 💧 [aqua-alert](https://github.com/AbhijaySinghPanwar/aqua-alert) | 🔐 [SecureScope-TLS-Security-Platform](https://github.com/AbhijaySinghPanwar/SecureScope-TLS-Security-Platform) | 🔄 [skillswap](https://github.com/AbhijaySinghPanwar/skillswap) |
+|---|---|---|
+| Water Quality Monitoring System — real-time IoT sensor data pipeline with backend alerts | TLS & Security Analysis Tool — scans endpoints for vulnerabilities and certificate issues | Full-stack skill exchange web application with authentication & real-time features |
+| ![IoT](https://img.shields.io/badge/IoT-1D9E75?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/Security-E24B4A?style=flat-square) ![TLS](https://img.shields.io/badge/TLS-888780?style=flat-square) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ---
 
