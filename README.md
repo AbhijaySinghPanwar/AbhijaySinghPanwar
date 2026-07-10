@@ -125,8 +125,6 @@
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="PyTorch" title="Sentence-Transformers (PyTorch)" />
 </p>
 
-<p align="center"><b>Sentence-Transformers</b></p>
-
 ### 📊 Data Engineering
 
 <p>
