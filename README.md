@@ -91,7 +91,7 @@
 |---|---|---|
 | AI-powered ATS resume analyzer performing semantic resume-to-job matching across 10+ job categories, with skill-gap analysis and AI-assisted enhancement, validated against 60+ real resumes. ONNX Runtime inference optimization cut latency by ~40%. | AI battle arena where 4+ LLMs compete head-to-head with real-time reasoning, ELO ratings, and a live leaderboard across 100+ matches. Includes a standalone benchmark engine with minimax evaluation and HTML reporting. Deployed on Hugging Face Spaces. | Full-stack peer-to-peer skill exchange platform with automated skill matching for 50+ test users, secure JWT + Google OAuth 2.0 authentication, and real-time chat/exchange workflows. |
 | **Python • FastAPI • PostgreSQL • Sentence-Transformers • ONNX Runtime • Gemini API** | **Python • Gradio • OpenAI • Gemini • Groq • SQLite** | **Node.js • Express • MongoDB • JWT • Google OAuth 2.0 • Bootstrap** |
-| [GitHub] · [Live Demo] | [GitHub] · [Live Demo] | [GitHub] · [Live Demo] |
+| [GitHub](https://github.com/AbhijaySinghPanwar/resumeAI) · [Live Demo](https://resumeai-sir1.onrender.com) | [GitHub](https://github.com/AbhijaySinghPanwar/Connect-4) · [Live Demo](https://huggingface.co/spaces/Abhijay18/connect4-llm-arena) | [GitHub](https://github.com/AbhijaySinghPanwar/skillswap) · [Live Demo](https://skillswap-b68k.onrender.com/) |
 
 ---
 
@@ -117,19 +117,33 @@
 
 ### 🤖 AI / Machine Learning
 
-`Google Gemini API` `Sentence-Transformers` `ONNX Runtime` `Hugging Face`
+<p>
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Google Gemini" title="Google Gemini API" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" title="Hugging Face" />
+<img src="https://cdn.simpleicons.org/onnx/005CED" width="48" height="48" alt="ONNX Runtime" title="ONNX Runtime" />
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI" title="OpenAI" />
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="PyTorch" title="Sentence-Transformers (PyTorch)" />
+</p>
+
+<p align="center"><b>Sentence-Transformers</b></p>
 
 ### 📊 Data Engineering
 
-`Apache Spark` `Databricks` `Pandas` `Power BI`
+<p>
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" width="48" height="48" alt="Apache Kafka" title="Apache Kafka" />
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48" height="48" alt="Apache Spark" title="Apache Spark" />
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48" alt="Databricks" title="Databricks" />
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" title="Pandas" />
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" title="Power BI" />
+</p>
 
 ### ☁️ Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github" />
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render" title="Render" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face Spaces" title="Hugging Face Spaces" />
 </p>
-
-`Render` `Hugging Face Spaces`
 
 ### 🛠️ Tools
 
