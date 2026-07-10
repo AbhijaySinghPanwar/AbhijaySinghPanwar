@@ -1,120 +1,214 @@
 <h1 align="center">Hi 👋, I'm Abhijay Panwar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&height=45&lines=Backend+Developer;IoT+%26+Systems+Builder;System+Design+Learner;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Data+Engineering+Enthusiast;IoT+%26+Systems+Builder;System+Design+Learner;Always+Building+Real+World+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  💻 IT Student | Backend & Systems Enthusiast &nbsp;·&nbsp; 🚀 Building real-world apps with Web, IoT & Networking
+  💻 IT Student • Backend Developer • Data Engineering Enthusiast • IoT Builder
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhijaySinghPanwar&color=58a6ff&style=flat-square&label=Profile+Views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AbhijaySinghPanwar&label=Profile%20Views&color=58A6FF&style=flat-square"/>
 </p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
 <table>
-  <tr>
-    <td>🔭 Currently building <strong>IoT + Backend systems</strong> (Aqua-Alert & more)</td>
-    <td>👯 Open to <strong>scalable web & system-based</strong> collaborations</td>
-  </tr>
-  <tr>
-    <td>🤝 Exploring <strong>System Design, APIs</strong> & performance optimization</td>
-    <td>🌱 Learning <strong>DSA, Computer Networks</strong> & Backend Architecture</td>
-  </tr>
-  <tr>
-    <td>💬 Ask me about <strong>Backend, Networking</strong> & academic projects</td>
-    <td>⚡ Focused on <strong>practical, problem-solving</strong> systems</td>
-  </tr>
+<tr>
+<td>
+
+🔭 Currently building scalable **Backend, IoT & Data Engineering** applications.
+
+</td>
+
+<td>
+
+💼 Completed **Data Engineering Internship at Tech Mahindra**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🌱 Learning **System Design, Distributed Systems & Cloud Architecture**
+
+</td>
+
+<td>
+
+📊 Working with **Kafka, Spark, SQL & ETL Pipelines**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+💬 Ask me about **Backend Development, APIs, Networking & Data Engineering**
+
+</td>
+
+<td>
+
+⚡ Passionate about solving real-world engineering problems
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Core Expertise
 
-| 💧 [aqua-alert](https://github.com/AbhijaySinghPanwar/aqua-alert) | 🔐 [SecureScope-TLS-Security-Platform](https://github.com/AbhijaySinghPanwar/SecureScope-TLS-Security-Platform) | 🔄 [skillswap](https://github.com/AbhijaySinghPanwar/skillswap) |
-|---|---|---|
-| Water Quality Monitoring System — real-time IoT sensor data pipeline with backend alerts | TLS & Security Analysis Tool — scans endpoints for vulnerabilities and certificate issues | Full-stack skill exchange web application with authentication & real-time features |
-| ![IoT](https://img.shields.io/badge/IoT-1D9E75?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/Security-E24B4A?style=flat-square) ![TLS](https://img.shields.io/badge/TLS-888780?style=flat-square) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Web**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+- ⚙️ Backend Development
+- 📊 Data Engineering
+- 🔄 ETL Pipelines
+- ☁️ AWS Cloud
+- 📡 IoT Systems
+- 🔐 Networking & Security
+- 🗄️ Database Design
+- 🧩 REST APIs
+- 📈 Data Analytics
+- 🚀 System Design
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+| 💧 Aqua Alert | 🔐 SecureScope | 🔄 SkillSwap |
+|---------------|----------------|--------------|
+| IoT-based Water Quality Monitoring Platform with real-time sensor monitoring, backend APIs, alerts and dashboard. | TLS Security Analysis Platform that scans websites for SSL/TLS vulnerabilities and certificate health. | Full Stack Skill Exchange Platform with authentication, REST APIs and database integration. |
+| **Node.js • Express • MongoDB • Arduino** | **Python • TLS • Networking** | **React • Express • MySQL** |
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+### 📊 Data Engineering
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,spark,hadoop" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,firebase" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,arduino" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijaySinghPanwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijaySinghPanwar&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhijaySinghPanwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijaySinghPanwar&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhijaySinghPanwar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com?user=AbhijaySinghPanwar&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijaySinghPanwar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbhijaySinghPanwar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhijay-singh-panwar-14703828b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhijay%20Panwar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/AbhijaySinghPanwar">
-    <img src="https://img.shields.io/badge/GitHub-AbhijaySinghPanwar-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/ABHIJAYPANWAR/">
-    <img src="https://img.shields.io/badge/LeetCode-ABHIJAYPANWAR-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="mailto:abhijaysinghpanwar822@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-abhijaysinghpanwar822-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/abhijay-singh-panwar-14703828b/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/AbhijaySinghPanwar" target="_blank">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://leetcode.com/u/ABHIJAYPANWAR/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
+</a>
+
+<a href="mailto:abhijaysinghpanwar822@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 ---
 
-## 🧠 Quote
+# 💭 Quote
 
-> "First, solve the problem. Then, write the code." — John Johnson
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
 
 ---
 
-<p align="center">⭐ <em>Always building, always learning</em></p>
+<p align="center">
+
+### ⭐ Always Building • Always Learning • Always Improving ⭐
+
+</p>
