@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abhijay Panwar</h1>
+<h1 align="center">Hi 👋, I'm Abhijay Singh Panwar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Data+Engineering+Enthusiast;IoT+%26+Systems+Builder;System+Design+Learner;Always+Building+Real+World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Engineering+%26+Analytics+Intern;Backend+%2B+AI%2FML+Developer;Building+Full-Stack+%26+GenAI+Apps;B.Tech+IT+%40+VIT+Vellore" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  💻 IT Student • Backend Developer • Data Engineering Enthusiast • IoT Builder
+  💻 B.Tech IT @ VIT Vellore • Data Engineering & Analytics Intern @ Tech Mahindra • AI/ML Builder
 </p>
 
 <p align="center">
@@ -20,27 +20,13 @@
 <tr>
 <td>
 
-🔭 Currently building scalable **Backend, IoT & Data Engineering** applications.
+🔭 Currently a **Data Engineering & Analytics Intern at Tech Mahindra**, working on ETL pipelines, SQL/Spark transformations, and Power BI dashboards for telecom churn analytics.
 
 </td>
 
 <td>
 
-💼 Completed **Data Engineering Internship at Tech Mahindra**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🌱 Learning **System Design, Distributed Systems & Cloud Architecture**
-
-</td>
-
-<td>
-
-📊 Working with **Kafka, Spark, SQL & ETL Pipelines**
+💼 Building **AI-powered full-stack applications** — resume analyzers, LLM arenas, and skill-exchange platforms.
 
 </td>
 </tr>
@@ -48,13 +34,27 @@
 <tr>
 <td>
 
-💬 Ask me about **Backend Development, APIs, Networking & Data Engineering**
+🌱 Learning **System Design, RAG, QLoRA & AI Agents**
 
 </td>
 
 <td>
 
-⚡ Passionate about solving real-world engineering problems
+📊 Working with **Spark, Databricks, Power BI, SQL & ETL pipelines**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+💬 Ask me about **Backend Development, Data Engineering, APIs & AI/ML integrations**
+
+</td>
+
+<td>
+
+⚡ Passionate about solving real-world engineering problems end-to-end
 
 </td>
 </tr>
@@ -62,27 +62,43 @@
 
 ---
 
+# 🎓 Education
+
+**Vellore Institute of Technology, Vellore** — B.Tech in Information Technology (2023–2027), CGPA: 8.77
+**Ideal International School, Indore** — Class XII (CBSE), 2023 — 93.6%
+
+---
+
+# 💼 Experience
+
+**Data Engineering & Analytics Intern, Tech Mahindra** — *May 2026 – Jul 2026*
+- Automated ingestion of heterogeneous datasets across 3+ file formats, cutting manual preprocessing time by ~30%.
+- Engineered reusable SQL queries and Spark transformations supporting revenue and customer analytics across telecom datasets with 100K+ records.
+- Strengthened data quality via schema validation and missing-value handling across 5+ pipelines, cutting downstream errors by ~20%.
+- Delivered 3 interactive Power BI dashboards tracking churn KPIs, revenue trends, and retention analysis for stakeholders.
+
+---
+
 # 🚀 Core Expertise
 
 - ⚙️ Backend Development
-- 📊 Data Engineering
-- 🔄 ETL Pipelines
-- ☁️ AWS Cloud
-- 📡 IoT Systems
-- 🔐 Networking & Security
+- 📊 Data Engineering & ETL Pipelines
+- 🤖 AI/ML & GenAI Integrations
+- ☁️ Cloud Deployment
 - 🗄️ Database Design
 - 🧩 REST APIs
-- 📈 Data Analytics
+- 📈 Data Analytics & Visualization
 - 🚀 System Design
 
 ---
 
 # 🚀 Featured Projects
 
-| 💧 Aqua Alert | 🔐 SecureScope | 🔄 SkillSwap |
-|---------------|----------------|--------------|
-| IoT-based Water Quality Monitoring Platform with real-time sensor monitoring, backend APIs, alerts and dashboard. | TLS Security Analysis Platform that scans websites for SSL/TLS vulnerabilities and certificate health. | Full Stack Skill Exchange Platform with authentication, REST APIs and database integration. |
-| **Node.js • Express • MongoDB • Arduino** | **Python • TLS • Networking** | **React • Express • MySQL** |
+| 🧠 TalentLens AI | ⚔️ Connect-4 LLM Arena | 🔄 SkillSwap |
+|---|---|---|
+| AI-powered ATS resume analyzer performing semantic resume-to-job matching across 10+ job categories, with skill-gap analysis and AI-assisted enhancement, validated against 60+ real resumes. ONNX Runtime inference optimization cut latency by ~40%. | AI battle arena where 4+ LLMs compete head-to-head with real-time reasoning, ELO ratings, and a live leaderboard across 100+ matches. Includes a standalone benchmark engine with minimax evaluation and HTML reporting. Deployed on Hugging Face Spaces. | Full-stack peer-to-peer skill exchange platform with automated skill matching for 50+ test users, secure JWT + Google OAuth 2.0 authentication, and real-time chat/exchange workflows. |
+| **Python • FastAPI • PostgreSQL • Sentence-Transformers • ONNX Runtime • Gemini API** | **Python • Gradio • OpenAI • Gemini • Groq • SQLite** | **Node.js • Express • MongoDB • JWT • Google OAuth 2.0 • Bootstrap** |
+| [GitHub] · [Live Demo] | [GitHub] · [Live Demo] | [GitHub] · [Live Demo] |
 
 ---
 
@@ -91,50 +107,53 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 </p>
 
-### 🎨 Frontend
+### ⚙️ Backend & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,bootstrap" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=huggingface" /> Google Gemini API • Sentence-Transformers • ONNX Runtime
 </p>
 
 ### 📊 Data Engineering
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,spark,hadoop" />
+Apache Spark • Databricks • Pandas • Power BI
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,firebase" />
+<img src="https://skillicons.dev/icons?i=docker,git,github" /> Render • Hugging Face Spaces
 </p>
 
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,arduino" />
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
+
+---
+
+# 📜 Certifications
+
+- 100 Days of Code: The Complete Python Pro Bootcamp (Udemy)
+- The Complete Full-Stack Web Development Bootcamp (Udemy)
+- GenAI Using IBM Watsonx (IBM Developer Skills Network)
+- Decode C++ with Data Structures & Algorithms (PW Skills)
 
 ---
 
@@ -202,7 +221,7 @@
 
 # 💭 Quote
 
-> **"First, solve the problem. Then, write the code."**  
+> **"First, solve the problem. Then, write the code."**
 > — John Johnson
 
 ---
