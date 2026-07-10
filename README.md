@@ -62,13 +62,6 @@
 
 ---
 
-# 🎓 Education
-
-**Vellore Institute of Technology, Vellore** — B.Tech in Information Technology (2023–2027), CGPA: 8.77
-**Ideal International School, Indore** — Class XII (CBSE), 2023 — 93.6%
-
----
-
 # 💼 Experience
 
 **Data Engineering & Analytics Intern, Tech Mahindra** — *May 2026 – Jul 2026*
@@ -124,36 +117,25 @@
 
 ### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=huggingface" /> Google Gemini API • Sentence-Transformers • ONNX Runtime
-</p>
+`Google Gemini API` `Sentence-Transformers` `ONNX Runtime` `Hugging Face`
 
 ### 📊 Data Engineering
 
-<p>
-Apache Spark • Databricks • Pandas • Power BI
-</p>
+`Apache Spark` `Databricks` `Pandas` `Power BI`
 
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github" /> Render • Hugging Face Spaces
+<img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
+
+`Render` `Hugging Face Spaces`
 
 ### 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
-
----
-
-# 📜 Certifications
-
-- 100 Days of Code: The Complete Python Pro Bootcamp (Udemy)
-- The Complete Full-Stack Web Development Bootcamp (Udemy)
-- GenAI Using IBM Watsonx (IBM Developer Skills Network)
-- Decode C++ with Data Structures & Algorithms (PW Skills)
 
 ---
 
@@ -180,16 +162,6 @@ Apache Spark • Databricks • Pandas • Power BI
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijaySinghPanwar&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbhijaySinghPanwar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
 
 </p>
 
