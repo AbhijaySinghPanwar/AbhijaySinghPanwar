@@ -121,7 +121,6 @@
 <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Google Gemini" title="Google Gemini API" />
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" title="Hugging Face" />
 <img src="https://cdn.simpleicons.org/onnx/005CED" width="48" height="48" alt="ONNX Runtime" title="ONNX Runtime" />
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI" title="OpenAI" />
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48" alt="PyTorch" title="Sentence-Transformers (PyTorch)" />
 </p>
 
@@ -132,8 +131,7 @@
 <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48" height="48" alt="Apache Spark" title="Apache Spark" />
 <img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48" alt="Databricks" title="Databricks" />
 <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" title="Pandas" />
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" title="Power BI" />
-</p>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI" title="Power BI" /></p>
 
 ### ☁️ Cloud & DevOps
 
