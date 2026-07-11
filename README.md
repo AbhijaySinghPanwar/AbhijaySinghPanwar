@@ -141,12 +141,6 @@
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face Spaces" title="Hugging Face Spaces" />
 </p>
 
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
-</p>
-
 ---
 
 # 📊 GitHub Stats
